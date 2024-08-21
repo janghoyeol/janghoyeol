@@ -1,16 +1,32 @@
-## Hi there 👋
+## 안녕하세요 👋
 
-<!--
-**janghoyeol/janghoyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+제 GitHub 프로필에 오신 것을 환영합니다! 저는 AI, 웹 및 모바일 앱 개발에 관심이 많고, 기술을 탐구하는 것을 좋아합니다. 아래에는 제 배경, 기술 및 진행 중인 프로젝트에 대한 정보가 있습니다.
 
-Here are some ideas to get you started:
+### 자기소개
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+저는 주로 **Python**을 사용하여 AI 모델을 실험해 보고 있으며, **Java**를 이용해 웹 및 모바일 앱 개발도 하고 있습니다. **FastAPI**, **Flask**, **Django**, **SpringBoot**와 같은 여러 프레임워크를 사용해본 경험이 있습니다. 특히 **AI-X 딥러닝 심화 과정**에 참여하면서 실제 프로젝트를 통해 실력을 쌓고, 실무 멘토들의 멘토링을 받아 큰 성장을 이루었습니다. 컴퓨터공학을 전공하며 항상 열심히 공부하고 노력해왔습니다.
+
+### 자격증
+
+- **정보처리기사 (필기 합격)** - 실기 시험 예정: 2024년 10월
+
+### 수상이력
+
+- **동상** - 2024년 한국디지털콘텐츠학회 하계종합학술대회
+
+### 연락처
+
+언제든지 이메일이나 LinkedIn을 통해 연락해 주세요. 새로운 기회와 협업을 항상 환영합니다!
+
+- 📫 **이메일:** jhy9732@naver.com
+
+### 사용 기술
+
+- **프론트엔드 개발**: HTML, CSS, JavaScript
+- **백엔드 개발**: Java, JavaScript, Python, Jupyter, Node.js
+- **데이터베이스**: MongoDB, MySQL, Firebase
+- **개발 도구**: VS Code, Visual Studio, Eclipse
+- **프레임워크**: Django, Flask, SpringBoot, FastAPI, React Native, Expo
+- **협업 및 관리**: Git, GitHub, Notion
+
+방문해 주셔서 감사합니다! 함께 멋진 프로젝트를 만들어 보아요.
